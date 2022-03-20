@@ -1,0 +1,2 @@
+# cu-mini-game
+python
